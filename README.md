@@ -2,6 +2,8 @@
 
 Devstagram its a practice ejercice from a Laravel 9 Udemy Course <a href="https://www.udemy.com/course/curso-laravel-crea-aplicaciones-y-sitios-web-con-php-y-mvc/" >Course here</a>. Its a red social similar to instagram with: profile, posts, likes, followers, post list dashboard.
 
+made with Laravel + Livewire + MySql
+
 You can fork the repo.
 
 Just fork, config env, and npm run dev to mix.
