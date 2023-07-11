@@ -4,10 +4,6 @@ Devstagram its a practice ejercice from a Laravel 9 Udemy Course <a href="https:
 
 made with Laravel + Livewire + MySql
 
-You can fork the repo.
-
-Just fork, config env, and npm run dev to mix.
-
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
